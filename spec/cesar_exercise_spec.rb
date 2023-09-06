@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../cesar_cipher'
+require_relative '../caesar_cipher'
 
 
 RSpec.describe 'Caesar Cipher' do
